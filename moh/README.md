@@ -6,7 +6,7 @@ Music-On-Hold Creative Commons CC-BY & CC-BY-SA
 
 ## Machinimasound - Aduro
 
-\01_machinimasound_aduro
+Machinimasound.com_-_Aduro.mp3
 
 Music used: Aduro by Jens Kiilstofte https://machinimasound.com/music/aduro/
 
@@ -15,7 +15,7 @@ Licensed under Creative Commons Attribution 4.0 International (http://creativeco
 
 ## Machinimasound - Morning Cruise
 
-\02_machinimasound_morning
+Machinimasound.com_-_Aduro.mp3
 
 Music used: Morning Cruise by Jens Kiilstofte https://machinimasound.com/music/morning-cruise/
 
@@ -24,7 +24,7 @@ Licensed under Creative Commons Attribution 4.0 International (http://creativeco
 
 ## cdk - Sunday
 
-\03_cdk_sunday
+cdk_-_cdk_-_Sunday.mp3
 
 cdk - Sunday by cdk (c) 2016 Licensed under a Creative Commons Attribution (3.0) license. 
 
@@ -33,7 +33,7 @@ http://dig.ccmixter.org/files/cdk/53755
 
 ## cdk - Like Music
 
-\04_cdk_likemusic
+cdk_-_Like_Music_(cdk_Mix)_1.mp3
 
 Like Music (cdk Mix) by cdk (c) 2015 Licensed under a Creative Commons Attribution Share-Alike  (3.0) license. 
 
